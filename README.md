@@ -1,6 +1,6 @@
-# vrp_app
+# Veterans Rally Point
 
-A new Flutter project.
+This repo contains the code base for the VRP application
 
 ## Getting Started
 
